@@ -6,35 +6,264 @@ uid: fdf096c9-e67b-c17a-4d60-acec5cd2ead4
 
 Below is a selection of lecture notes that approximate chronologically the topics and themes listed on the [calendar]({{< baseurl >}}/pages/calendar). Lecture notes are not available for every session. During the fall of 2005, Aayesha Siddiqui took these notes especially for OpenCourseWare.
 
-| Lec # | Topics |
-| --- | --- |
-| 1 | Introduction, Opening Discussion ([PDF]({{< baseurl >}}/resources/2005_09_07_sss)) |
-| 2 | How do we Study or do Social Science? ([PDF]({{< baseurl >}}/resources/2005_09_12_sss)) |
-| 3 | Continue Elaborating Definition of Power as Capacity to Produce Intended and Foreseen Effects on Others ([PDF]({{< baseurl >}}/resources/2005_09_14_sss)) |
-| 4 | Film Showing: "Obedience and Conformity" |
-| 5 | Continue Elaboration of the Definition of Power, Begin Discussion of What Power is Not: Influence and Conformity ([PDF]({{< baseurl >}}/resources/2005_09_21_sss)) |
-| 6 | Film Showing: "Triumph of the Will" (2 hours) |
-| 7 | Conformity and Influence, Then Introduction of Three Forms of Power: Manipulation, Persuasion and Force ([PDF]({{< baseurl >}}/resources/2005_09_26_sss)) |
-| 8 | Force (cont.) ([PDF]({{< baseurl >}}/resources/2005_09_28_sss)) |
-| 9 | Personal Power, Charisma, Leadership ([PDF]({{< baseurl >}}/resources/2005_10_03_sss)) |
-| 10 | Charisma, Video of Reputedly Charismatic Leaders' Speeches ([PDF]({{< baseurl >}}/resources/2005_10_05_sss)) |
-| 11 | Explaining Power Differentials, from Classical Theory ([PDF]({{< baseurl >}}/resources/2005_10_12_sss)) |
-| 12 | Classical Theories of Power, How do Differentials in Power Arise? ([PDF]({{< baseurl >}}/resources/2005_10_17_sss)) |
-| 13 | How do Power Differential Arise? From Social Organization ([PDF]({{< baseurl >}}/resources/2005_10_19_sss)) |
-| 14 | How do Power Differentials Arise: Lessons from Classical Social Theory (cont.), Review of Last Class: Max Weber ([PDF]({{< baseurl >}}/resources/2005_10_24_sss)) |
-| 15 | How do Differentials in Power Arise? Lessons from Social Theory (cont.) ([PDF]({{< baseurl >}}/resources/2005_10_26_sss)) |
-| 16 | How do Power Differentials Arise? Lessons from Social Theory, Marx (cont.) ([PDF]({{< baseurl >}}/resources/2005_10_31_sss)) |
-| 17 | How is Power Institutionalized? Foucault ([PDF]({{< baseurl >}}/resources/2005_11_02_sss)) |
-| 18 | How is Power Institutionalized and Exercised? ([PDF]({{< baseurl >}}/resources/2005_11_07_sss)) |
-| 19 | Power Institutionalized ([PDF]({{< baseurl >}}/resources/2005_11_09_sss)) |
-| 20 | Power Institutionalized, Concluded, Transformations in Authority in Modern World ([PDF]({{< baseurl >}}/resources/2005_11_14_sss)) |
-| 21 | Transformations in Location and Sources of Authority, Examples of Professional Authority |
-| 22 | Transformations in Location and Sources of Authority (cont.) ([PDF]({{< baseurl >}}/resources/2005_11_21_sss)) |
-| 23 | Professional Authority and Cultural Hegemony ([PDF]({{< baseurl >}}/resources/2005_11_28_sss)) |
-| 24 | Professional Authority and Cultural Hegemony (cont.): Deconstruction and Postmodern / Post / Structuralism ([PDF]({{< baseurl >}}/resources/2005_11_30_sss)) |
-| 25 | Post-Modernism, Postmodernity and Power (cont.) ([PDF]({{< baseurl >}}/resources/2005_12_05_sss)) |
-| 26 | Conclusion on Postmodernism / Postmodernity, Class Discussion ([PDF]({{< baseurl >}}/resources/2005_12_12_sss)) |
-| 27 | Concluding Observations, Comments ([PDF]({{< baseurl >}}/resources/2005_12_14_sss)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Opening Discussion ([PDF]({{< baseurl >}}/resources/2005_09_07_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+How do we Study or do Social Science? ([PDF]({{< baseurl >}}/resources/2005_09_12_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Continue Elaborating Definition of Power as Capacity to Produce Intended and Foreseen Effects on Others ([PDF]({{< baseurl >}}/resources/2005_09_14_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Film Showing: "Obedience and Conformity"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Continue Elaboration of the Definition of Power, Begin Discussion of What Power is Not: Influence and Conformity ([PDF]({{< baseurl >}}/resources/2005_09_21_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Film Showing: "Triumph of the Will" (2 hours)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Conformity and Influence, Then Introduction of Three Forms of Power: Manipulation, Persuasion and Force ([PDF]({{< baseurl >}}/resources/2005_09_26_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Force (cont.) ([PDF]({{< baseurl >}}/resources/2005_09_28_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Personal Power, Charisma, Leadership ([PDF]({{< baseurl >}}/resources/2005_10_03_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Charisma, Video of Reputedly Charismatic Leaders' Speeches ([PDF]({{< baseurl >}}/resources/2005_10_05_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Explaining Power Differentials, from Classical Theory ([PDF]({{< baseurl >}}/resources/2005_10_12_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Theories of Power, How do Differentials in Power Arise? ([PDF]({{< baseurl >}}/resources/2005_10_17_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+How do Power Differential Arise? From Social Organization ([PDF]({{< baseurl >}}/resources/2005_10_19_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+How do Power Differentials Arise: Lessons from Classical Social Theory (cont.), Review of Last Class: Max Weber ([PDF]({{< baseurl >}}/resources/2005_10_24_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+How do Differentials in Power Arise? Lessons from Social Theory (cont.) ([PDF]({{< baseurl >}}/resources/2005_10_26_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+How do Power Differentials Arise? Lessons from Social Theory, Marx (cont.) ([PDF]({{< baseurl >}}/resources/2005_10_31_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+How is Power Institutionalized? Foucault ([PDF]({{< baseurl >}}/resources/2005_11_02_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+How is Power Institutionalized and Exercised? ([PDF]({{< baseurl >}}/resources/2005_11_07_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Power Institutionalized ([PDF]({{< baseurl >}}/resources/2005_11_09_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Power Institutionalized, Concluded, Transformations in Authority in Modern World ([PDF]({{< baseurl >}}/resources/2005_11_14_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Transformations in Location and Sources of Authority, Examples of Professional Authority
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Transformations in Location and Sources of Authority (cont.) ([PDF]({{< baseurl >}}/resources/2005_11_21_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Professional Authority and Cultural Hegemony ([PDF]({{< baseurl >}}/resources/2005_11_28_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Professional Authority and Cultural Hegemony (cont.): Deconstruction and Postmodern / Post / Structuralism ([PDF]({{< baseurl >}}/resources/2005_11_30_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Post-Modernism, Postmodernity and Power (cont.) ([PDF]({{< baseurl >}}/resources/2005_12_05_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion on Postmodernism / Postmodernity, Class Discussion ([PDF]({{< baseurl >}}/resources/2005_12_12_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Concluding Observations, Comments ([PDF]({{< baseurl >}}/resources/2005_12_14_sss))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Prof. Silbey's Supplemental Materials
 -------------------------------------
