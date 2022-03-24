@@ -268,8 +268,8 @@ Concluding Observations, Comments ([PDF]({{< baseurl >}}/resources/2005_12_14_ss
 Prof. Silbey's Supplemental Materials
 -------------------------------------
 
-The Sources, Structure, and Transformation of Power (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/power_1_flipped))
+The Sources, Structure, and Transformation of Power ([PDF]({{< baseurl >}}/resources/power_1_flipped))
 
-Power Pyramid (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pyramid_))
+Power Pyramid ([PDF]({{< baseurl >}}/resources/pyramid_))
 
-Intentions in Definition of Power and Symbols (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/power_3))
+Intentions in Definition of Power and Symbols ([PDF]({{< baseurl >}}/resources/power_3))

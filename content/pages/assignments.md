@@ -8,8 +8,8 @@ A sample of the assignments for this course are provided in this section.
 
 Paper Assignment 1 ([PDF]({{< baseurl >}}/resources/21a_245_paper_1))
 
-Exercise 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exercise_1))
+Exercise 1 ([PDF]({{< baseurl >}}/resources/exercise_1))
 
-Exercise 1 chart (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exercise1chart))
+Exercise 1 chart ([PDF]({{< baseurl >}}/resources/exercise1chart))
 
-Exercise 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exercise_2))
+Exercise 2 ([PDF]({{< baseurl >}}/resources/exercise_2))
